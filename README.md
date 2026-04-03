@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
 
-<!--
-**paramidia/paramidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"
 
-Here are some ideas to get you started:
+<br><sup><img src="https://komarev.com/ghpvc/?username=paramidia&color=8cd3ff">
+<br>
+<br> ![](https://i.postimg.cc/xCzX2dNG/image.png)
+<br>
+<br> [![Last.fm Obsession](https://lastfm-github-profile.vercel.app/api?user=valfen&bg=181818&mode=now)](https://www.last.fm/user/valfen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br>
