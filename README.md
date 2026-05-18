@@ -2,11 +2,12 @@
 
 <p align="center"
 
-<br><sup><img src="https://komarev.com/ghpvc/?username=paramidia&color=000000&label=nosy+people">
+<br><sup><img src="https://komarev.com/ghpvc/?username=paramidia&color=ebccd0&label=nosy+people">
 <br>
-<br> <img width="204" height="141" alt="image" src="https://github.com/user-attachments/assets/8b467a42-6e66-49fc-b623-88ee558dbd6f" />
+<br> <img width="410" height="284" alt="HHKuW0IXsAAzE9b (1)" src="https://github.com/user-attachments/assets/9a5e61e4-979e-46d2-912c-ea5a5a33cb62" />
+<br> my collection ⮥
 <br>
-<br> [![Last.fm Obsession](https://lastfm-github-profile.vercel.app/api?user=valfen&bg=181818&mode=recent)](https://www.last.fm/user/valfen)
+<br> [![Last.fm Obsession](https://lastfm-github-profile.vercel.app/api?user=valfen&bg=ebccd0&mode=recent)](https://www.last.fm/user/valfen)
 
 
 
